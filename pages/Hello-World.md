@@ -4,4 +4,6 @@ public:: true
 - I would like share my thoughts and writing
 	- [[Contact]]
 	- [[Tags]]
+	- [[Categories]]
+	-
 	-
