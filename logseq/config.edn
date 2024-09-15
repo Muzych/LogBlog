@@ -422,5 +422,5 @@
  :publishing/all-pages-public? false
  :feature/enable-whiteboards? false
  :feature/enable-journals? false
- :default-home {:page "Hello-World"}
+ :default-home {:page "Woodson's Blog"}
  :feature/enable-flashcards? false}
