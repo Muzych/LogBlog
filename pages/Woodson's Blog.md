@@ -1,11 +1,12 @@
 public:: true
 
-- 你好，欢迎你来到我的数字花园
-- ![1146672.jpg](../assets/1146672_1726585520615_0.jpg)
--
-- I would like share my thoughts and writing.
-	- [[Tags]]
-	- [[Categories]]
-	- [[About]]
-	- [[NOW]]
+- ![Blog_Banner](https://wallpaperaccess.com/full/1146672.jpg)
+- 👋你好，这是我的个人空间，我会在这里用中文，偶尔也用英文，来分享我的思考和写作。
+- Hi, this is my personal space. I would like to share my thoughts and writing here.
+	- 🏷️[[Tags]]
+	- 📝[[Categories]]
+	- 👨🏻‍🎨[[About]]
+	- ⏰️[[Now]]
 	-
+- 本网站的文章同步更新于Xlog，欢迎订阅我的[RSS](https://xlog.muziyancheng.comfeed)。
+-
