@@ -7,5 +7,6 @@ public:: true
 	- 📝[[Categories]]
 	- 👨🏻‍🎨[[About]]
 	- ⏰️[[Now]]
+	- 📃[[Posts]]
 	-
 - 本网站的文章同步更新于Xlog，欢迎订阅我的[RSS](https://xlog.muziyancheng.com/feed)
