@@ -7,7 +7,7 @@ public:: true
 	- 如果你想更深入地了解我，欢迎查看我的[[个人说明书]]
 	-
 	- Recent Post:
-		- [[]]
+		-
 	-
 	-
 - 本网站的文章同步更新于Xlog，欢迎订阅我的[RSS](https://xlog.muziyancheng.com/feed)
